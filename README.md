@@ -1,5 +1,5 @@
 
-#Dragon text game
+# Dragon text game
 
  **lang = en**
  ---
@@ -14,7 +14,7 @@
 
 
 
-###Requirements
+### Requirements
 - Python 2.7
 
 ***Install or copy code through any python editor***
